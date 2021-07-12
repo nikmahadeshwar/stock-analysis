@@ -21,9 +21,13 @@ We improved the efficiency of the code by using for loops. We used the tickerInd
 ![alt text](https://github.com/nikmahadeshwar/stock-analysis/blob/main/stockanalysiscode.PNG)
 
 ## Summary
-Advantages of Refactoring Code
+## Advantages of Refactoring Code
 By refactoring code it makes our code more organised. It can be easily read, understand and maintained. It increases the quality, design and gives good results.
+
+## Disadvantages of Refactoring Code
 Refactoring code can be expensive and risky. It may also introduce bugs to the application. 
+
+## Benifits for the current Project
 The benifit we had as a result of the refactoring was decrease in macro run time. The runtime for new analysis took about 2 seconds to run. Attached below are the screenshots that indicate the run time for our new analysis.
 
 ## Stock performance of 2017
